@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m mostly interested in backend developing. 
-- 🌱 I’m currently learning typescript, nestJS, nodeJS, docker, kubernettes and C. 
+- 🌱 Currently working with typescript, nestJS, nodeJS, docker, kubernettes and C. 
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me srdanielillo@gmail.com
 
